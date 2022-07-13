@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chinmay Patil
-- 👀 I’m interested in Coding,IOT and related stuff
+- 👀 I’m interested in Coding and related stuff
 - 🌱 I’m currently learning EnTC @ COEP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-drop a mail at-patilcc19.extc@coep.ac.in
 
 <!---
